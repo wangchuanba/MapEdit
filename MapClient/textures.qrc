@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/specular.webp</file>
+        <file>textures/normal.webp</file>
+        <file>textures/diffuse.webp</file>
+     </qresource>
+</RCC>

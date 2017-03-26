@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>metalbarrel/diffus_black.webp</file>
+        <file>metalbarrel/diffus_blue.webp</file>
+        <file>metalbarrel/diffus_green.webp</file>
+        <file>metalbarrel/diffus_red.webp</file>
+        <file>metalbarrel/diffus_rust.webp</file>
+        <file>metalbarrel/diffus_stainless_steel.webp</file>
+        <file>metalbarrel/diffus_yellow.webp</file>
+        <file>metalbarrel/metal_barrel.obj</file>
+        <file>metalbarrel/normal_hard_bumps.webp</file>
+        <file>metalbarrel/normal_middle_bumps.webp</file>
+        <file>metalbarrel/normal_no_bumps.webp</file>
+        <file>metalbarrel/normal_soft_bumps.webp</file>
+        <file>metalbarrel/specular_rust.webp</file>
+        <file>metalbarrel/specular_stainless_steel.webp</file>
+        <file>metalbarrel/specular.webp</file>
+    </qresource>
+</RCC>
